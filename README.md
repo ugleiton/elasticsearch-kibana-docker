@@ -38,3 +38,7 @@ make up-kb
 This repository contains an example jupyter notebook (elastic_example_bulk.ipynb) for bulk importing data, change the connection parameters to run
 
 ---
+
+
+![Screenshot_1](https://raw.githubusercontent.com/ugleiton/elasticsearch-kibana-docker/main/Screenshot_1.png "Screenshot_1")
+![Screenshot_2](https://raw.githubusercontent.com/ugleiton/elasticsearch-kibana-docker/main/Screenshot_2.png "Screenshot_2")
